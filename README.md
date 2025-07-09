@@ -1,1 +1,1 @@
-# pong-game using js!
+# pong-game using js
